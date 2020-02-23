@@ -8,8 +8,8 @@
 # (c) 2018-2019, Lubomir Carik
 #
 
-export OC_TAG=v8.02
-export STOKEN_TAG=v0.92
+export OC_TAG=master
+export STOKEN_TAG=master
 
 dnf -y install \
     mingw32-gnutls \
